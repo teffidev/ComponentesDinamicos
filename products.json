@@ -1,0 +1,80 @@
+{
+    "products1": [
+        {
+            "id": 1,
+            "name": "Macbook Air 13 Chip M1 256gb",
+            "image": "https://m.media-amazon.com/images/I/41O807iqbCL._AC_SX522_.jpg",
+            "price": "R$ 7999.00"
+        },
+        {
+            "id": 2,
+            "name": "Echo Dot (4ª Geração)",
+            "image": "https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SL1000_.jpg",
+            "price": "R$ 379.00"
+        },
+        {
+            "id": 3,
+            "name": "Câmera Ip Sem Fio 360°",
+            "image": "https://m.media-amazon.com/images/I/51F70OM213S._AC_SL1000_.jpg",
+            "price": "R$ 199.00"
+        },
+        {
+            "id": 4,
+            "name": "Fechadura Eletrônica Digital Inteligente Zigbee",
+            "image": "https://m.media-amazon.com/images/I/51RXeqMLceL._AC_SL1500_.jpg",
+            "price": "R$ 1599.00"
+        }
+    ],
+    "products2": [
+        {
+            "id": 1,
+            "name": "Google Chromecast",
+            "image": "https://i.blogs.es/358955/botones-chromecast/450_1000.jpg",
+            "price": "USD 500.00"
+        },
+        {
+            "id": 2,
+            "name": "Amazone Echo",
+            "image": "https://i.blogs.es/22a28f/alta/1366_2000.jpg",
+            "price": "USD 365.00"
+        },
+        {
+            "id": 3,
+            "name": "Tesla Model S",
+            "image": "https://i.blogs.es/6d527a/tesla-model-s-prueba-ibiza-650-03-b-xtk/1366_2000.jpg",
+            "price": "USD 1500.00"
+        },
+        {
+            "id": 4,
+            "name": "Apple Watch",
+            "image": "https://i.blogs.es/20d5d5/aw/1366_2000.jpg",
+            "price": "USD 1657.00"
+        }
+    ],
+    "products3": [
+        {
+            "id": 1,
+            "name": "Roomba 600 y 700",
+            "image": "https://i.blogs.es/53c773/roomba-760/1366_2000.jpg",
+            "price": "USD 809.00"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 4",
+            "image": "https://i.blogs.es/095f10/iphon/1366_2000.jpg",
+            "price": "USD 950.00"
+        },
+        {
+            "id": 3,
+            "name": "Google Home",
+            "image": "https://i.blogs.es/fc005e/google-home-espanol-01/1366_2000.jpg",
+            "price": "USD 1100.00"
+        },
+        {
+            "id": 4,
+            "name": "Pebble",
+            "image": "https://i.blogs.es/074802/pebble_watch_trio_group_04/1366_2000.png",
+            "price": "USD 850.00"
+        }
+    ]
+}
